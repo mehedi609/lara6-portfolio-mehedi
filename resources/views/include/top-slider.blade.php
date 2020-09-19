@@ -4,7 +4,7 @@
 			<div class="overlay"></div>
 			<div class="container">
 				<div class="row d-md-flex no-gutters slider-text align-items-end justify-content-end" data-scrollax-parent="true">
-					<div class="one-third order-md-last img" style="background-image:url({{asset('images/oie_1893953eXlqze2G.jpg')}});">
+					<div class="one-third order-md-last img" style="background-image:url({{asset('images/profile/oie_1893953eXlqze2G.jpg')}});">
 						<div class="overlay"></div>
 					</div>
 					<div class="one-forth d-flex  align-items-center ftco-animate" data-scrollax=" properties: { translateY: '70%' }">
@@ -22,7 +22,7 @@
 			<div class="overlay"></div>
 			<div class="container">
 				<div class="row d-flex no-gutters slider-text align-items-end justify-content-end" data-scrollax-parent="true">
-					<div class="one-third order-md-last img" style="background-image:url({{asset('images/oie_18944531K75h4aB.jpg')}});">
+					<div class="one-third order-md-last img" style="background-image:url({{asset('images/profile/oie_18944531K75h4aB.jpg')}});">
 						<div class="overlay"></div>
 					</div>
 					<div class="one-forth d-flex align-items-center ftco-animate" data-scrollax=" properties: { translateY: '70%' }">

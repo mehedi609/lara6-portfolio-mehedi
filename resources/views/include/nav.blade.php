@@ -10,8 +10,9 @@
 				<li class="nav-item"><a href="#home-section" class="nav-link"><span>Home</span></a></li>
 				<li class="nav-item"><a href="#about-section" class="nav-link"><span>About</span></a></li>
 				<li class="nav-item"><a href="#skills-section" class="nav-link"><span>Skills</span></a></li>
+				<li class="nav-item"><a href="#experience-section" class="nav-link"><span>Experiences</span></a></li>
 				<li class="nav-item"><a href="#projects-section" class="nav-link"><span>Projects</span></a></li>
-				<li class="nav-item"><a href="#blog-section" class="nav-link"><span>My Blog</span></a></li>
+				<li class="nav-item"><a href="#certificates-section" class="nav-link"><span>Certificates</span></a></li>
 			</ul>
 		</div>
 	</div>

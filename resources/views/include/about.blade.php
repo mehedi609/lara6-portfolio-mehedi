@@ -4,16 +4,18 @@
 			<div class="col-md-6 col-lg-5 d-flex">
 				<div class="img-about img d-flex align-items-stretch">
 					<div class="overlay"></div>
-					<div class="img d-flex align-self-stretch align-items-center" style="background-image:url({{asset('images/mehedi_original_size.jpg')}});">
+					<div class="img d-flex align-self-stretch align-items-center" style="background-image:url({{asset('images/profile/mehedi_original_size.jpg')}});">
 					</div>
 				</div>
 			</div>
-			<div class="col-md-6 col-lg-7 pl-lg-5 py-5">
+			<div class="col-md-6 col-lg-7 pl-lg-5" style="padding-top: 30px;">
 				<div class="row justify-content-start pb-3">
 					<div class="col-md-12 heading-section ftco-animate">
-						<span class="subheading">Welcome</span>
-						<h2 class="mb-4" style="font-size: 34px; text-transform: capitalize;">About Me</h2>
-						<p>A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.</p>
+						<h2 class="mb-4" style="font-size: 34px; text-transform: capitalize;">About Myself</h2>
+						<p>I am an <strong>Assistant Software Engineer</strong> at Ambala IT.
+							From the beginning of my carrier to till date, I have worked in several government as well as private projects.
+							I love to solve real world problem through codding. Python is my Favorite Language as I have a deep passion for Data Science.
+						</p>
 					</div>
 				</div>
 				<div class="row">
@@ -22,16 +24,20 @@
 							<div class="media-body">
 								<div class="personal_text">
 									<ul class="list basic_info">
-										<li><a href="javascript:void(0)"><i class="lnr lnr-calendar-full"></i> 31st December, 1992</a></li>
-										<li><a href="javascript:void(0)"><i class="lnr lnr-phone-handset"></i> 44 (012) 6954 783</a></li>
-										<li><a href="javascript:void(0)"><i class="lnr lnr-envelope"></i> businessplan@donald</a></li>
-										<li><a href="javascript:void(0)"><i class="lnr lnr-home"></i> Santa monica bullevard</a></li>
+										<li><a href="javascript:void(0)"><i class="lnr lnr-calendar-full"></i> 20th December, 1990</a></li>
+										<li><a href="javascript:void(0)"><i class="lnr lnr-phone-handset"></i> +8801752-489818</a></li>
+										<li><a href="javascript:void(0)"><i class="lnr lnr-envelope"></i> mehedi609@gmail.com</a></li>
+										<li><a href="javascript:void(0)"><i class="lnr lnr-home"></i> Dhanmondi, Dhaka</a></li>
 									</ul>
 									<ul class="list personal_social">
-										<li><a href="#"><i class="fa fa-facebook"></i></a></li>
-										<li><a href="#"><i class="fa fa-twitter"></i></a></li>
-										<li><a href="#"><i class="fa fa-linkedin"></i></a></li>
+										<li><a href="https://www.facebook.com/eng.mehedi609/" target="_blank"><i class="fa fa-facebook"></i></a></li>
+										<li><a href="https://github.com/mehedi609" target="_blank"><i class="fa fa-github"></i></a></li>
+										<li><a href="https://www.linkedin.com/in/s-m-mehedi-hasan-5a9304197" target="_blank"><i class="fa fa-linkedin"></i></a></li>
 									</ul>
+									<div class="mt-5">
+										<a class="main_btn text-white" href="{{asset('cv/CV Mehedi.pdf')}}" target="_blank" download="cv_mehedi">Download CV</a>
+									</div>
+
 								</div>
 							</div>
 						</div>
