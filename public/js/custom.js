@@ -22,6 +22,7 @@ function testimonials_slider(){
 }
 testimonials_slider();
 
+/*Scroll To Top*/
 jQuery(document).ready(function() {
 
     var btn = $('#button');

@@ -1,7 +1,7 @@
 <section class="ftco-section bg-light" id="certificates-section">
 	<div class="container">
 		<div class="main_title ftco-animate">
-			<h2>Certificates Showcase</h2>
+			<h2>Certificate Showcase</h2>
 		</div>
 		<div class="testi_inner ftco-animate">
 			<div class="testi_slider owl-carousel">
