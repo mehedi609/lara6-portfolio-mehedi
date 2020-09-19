@@ -8,7 +8,7 @@
 				<div class="item">
 					<div class="testi_item">
 						<a href="https://www.udemy.com/certificate/UC-XG6GWH87/" target="_blank">
-						<img src="{{asset('images/certificates/next_react.jpg')}}" alt="">
+						<img src="{{asset('images/certificates/next_react.jpg')}}" alt="banijjo_react">
 						</a>
 					</div>
 				</div>
